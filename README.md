@@ -50,13 +50,12 @@ FloodShield/
 ├── .gitignore
 ├── src/
 │   └── floodshield.cpp
-├── gui/
-│   └── floodshield-gui.html
-├── docs/
-│   ├── Project_Report.pdf
-│   └── Presentation.pdf
+│── floodshield-gui.html
+
+│── Project_Report.pdf
+│── Presentation.pdf
 ├── diagrams/
-└── screenshots/
+
 ```
 
 ## ▶️ How to Run
